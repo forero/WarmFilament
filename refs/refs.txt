@@ -1,0 +1,4 @@
+http://arxiv.org/abs/astro-ph/0412378, " A Mass Measurement for the Missing Baryons in the Warm-Hot Intergalactic Medium via the X-ray Forest"
+http://adsabs.harvard.edu/abs/2002ApJ...573..157N, "Chandra Discovery of a Tree in the X-Ray Forest toward PKS 2155-304: The Local Filament?"
+http://adsabs.harvard.edu/abs/2012ApJ...753..137Z, "An X-Ray WHIM Metal Absorber from a Mpc-scale Empty Region of Space"
+http://athena2.irap.omp.eu/IMG/pdf/SP_4.pdf, "The missing baryons and theWa r m - Ho t In t e r g a l a c t i c Me d i u m"
